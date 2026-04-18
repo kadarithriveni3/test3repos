@@ -1,0 +1,2 @@
+class change password:
+     def register:
